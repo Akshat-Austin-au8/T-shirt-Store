@@ -1,0 +1,28 @@
+.div {
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.name {
+	font-family: "Montserrat", Arial, Helvetica, sans-serif;
+	padding: 7px 50px;
+	cursor: pointer;
+	color: #3f4346;
+	font-weight: 500;
+	background-color: inherit;
+	font-size: 14px;
+}
+
+.name:hover {
+	background-color: #d3d3d3;
+}
+
+.nameActive {
+	font-family: "Montserrat", Arial, Helvetica, sans-serif;
+	padding: 7px 50px;
+	cursor: pointer;
+	background-color: #d3d3d3;
+	font-size: 14px;
+}
